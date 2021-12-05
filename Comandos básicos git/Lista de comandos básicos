@@ -1,0 +1,3 @@
+"git add ." ou "git add -A" - Adiciona todas as mudanças para serem rastreadas pelo git
+"git commit -m MESSAGE" - Cria uma versão das mudanças rastreadas naquele momento
+"git push origin main" - Empurra as mudanças para o repositório remoto
